@@ -15,7 +15,7 @@ const Home = () => {
               />
             </div>
             <div class="col-lg-5">
-              <h2 class="font-weight-light">INFO 6150 - Spring 22</h2>
+              <h2 class="font-weight-light">INFO 6150 - Fall 2022</h2>
               <p>
                 Exposes students to both conceptual and technical aspects of Web
                 design and User Experience. Studies the fundamental concepts,
